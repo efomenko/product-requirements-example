@@ -1,5 +1,9 @@
 # Success Metrics
 
+## Purpose
+
+Defines how product success will be measured after launch. Metrics cover adoption, activation, engagement, reliability, customer value, and guardrails to ensure that increased usage does not negatively affect product quality.
+
 ## North Star Metric
 
 Successful automated operational outcomes.
