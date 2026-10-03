@@ -1,5 +1,9 @@
 # User Stories
 
+## Purpose
+
+Translates product requirements into user-centered backlog items. The stories describe what users need to accomplish and why, providing a foundation for engineering, design, and QA planning.
+
 ## Epic: Workflow Creation
 
 ### US-01 — Create Workflow
