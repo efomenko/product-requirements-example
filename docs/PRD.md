@@ -1,5 +1,9 @@
 # Product Requirements Document
 
+## Purpose 
+
+Defines the product requirements for the proposed solution. The PRD connects the customer problem with product goals, target users, functional requirements, non-functional requirements, constraints, risks, scope, and success metrics.
+
 ## 1. Product
 
 Workflow Alert Automation
