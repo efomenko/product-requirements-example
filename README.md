@@ -2,6 +2,10 @@
 
 > Portfolio / educational case study created to demonstrate Product Management and Product Ownership skills.
 
+## Purpose
+
+Provides an overview of the fictional product case study, including the customer problem, target users, proposed solution, product goals, repository structure, and expected outcomes. It serves as the entry point for reviewers and explains how the case demonstrates the end-to-end product management process.
+
 ## Overview
 
 This project demonstrates how I would define a product capability that allows IT operations teams to automatically process repetitive monitoring alerts.
