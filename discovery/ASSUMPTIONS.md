@@ -1,5 +1,9 @@
 # Assumptions
 
+## Purpose
+
+Lists the key assumptions behind the product opportunity and identifies which assumptions represent the greatest risk. It also describes how each assumption could be validated through research, prototypes, experiments, or product data.
+
 | Assumption | Risk | Validation |
 |---|---|---|
 | Users want to automate repetitive alerts | Medium | Interviews + usage data |
