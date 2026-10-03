@@ -2,6 +2,10 @@
 
 > Portfolio case study. Research findings are illustrative.
 
+## Purpose
+
+Documents the customer research used to understand and validate the problem. It summarizes illustrative interviews, support feedback, workflow observations, and product analytics, and identifies recurring patterns that influence product decisions.
+
 ## Research Method
 
 Example research approach:
