@@ -1,5 +1,9 @@
 # Acceptance Criteria
 
+## Purpose
+
+Defines the conditions that must be satisfied for each major capability to be considered complete. Acceptance criteria use clear, testable scenarios to align Product, Engineering, and QA on expected behavior.
+
 ## Create Workflow
 
 **Given** the user is on the workflow creation page
