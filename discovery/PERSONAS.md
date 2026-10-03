@@ -1,5 +1,9 @@
 # Personas
 
+## Purpose
+
+Defines the primary user personas for the product. Each persona describes the user's role, goals, responsibilities, pain points, needs, and expected outcomes to demonstrate how product decisions are connected to specific user groups.
+
 ## Persona 1 — MSP Administrator
 
 ### Goals
