@@ -1,5 +1,9 @@
 # Non-Functional Requirements
 
+## Purpose
+
+Defines quality and operational requirements that are not directly related to individual features. These include reliability, performance, scalability, security, observability, auditability, and resilience.
+
 ## Reliability
 
 Workflow execution should be resilient to temporary integration failures.
