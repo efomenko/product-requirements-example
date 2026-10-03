@@ -1,5 +1,9 @@
 # Functional Requirements
 
+## Purpose 
+
+Describes the specific behaviors and capabilities the product must provide. These requirements translate user needs into clear system behavior that can be implemented and tested by engineering.
+
 ## FR-01 Workflow Creation
 
 The system shall allow users to create a workflow.
